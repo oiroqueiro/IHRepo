@@ -1,4 +1,4 @@
-"""djangoIronRep URL Configuration
+"""ironhackrepo URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/4.1/topics/http/urls/
@@ -14,8 +14,20 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.contrib import admin
-from django.urls import path
+from django.urls import path, include
 
+# importing conf from settings.py
+from django.conf import settings
+# importing conf.urls from static
+from django.conf.urls.static import static
+
+# defining the list for urls
 urlpatterns = [
     path("admin/", admin.site.urls),
+
+    # registering videos application's urls in project
+    path('ironhackrepo/', include('ihrepo.urls')),
 ]
+
+# appending the urls with the static urls
+urlpatterns += static(settings.MEDIA_URL, document_root = settings.MEDIA_ROOT)

@@ -1,0 +1,1475 @@
+1
+00:00:00,000 --> 00:00:04,000
+And I will share my screen.
+
+2
+00:00:04,000 --> 00:00:18,000
+So basically one of the most asked questions for this next six months are can you all see my screen and can you hear me in case you don't let me know or just right in the chat.
+
+3
+00:00:18,000 --> 00:00:21,000
+Otherwise, I just start.
+
+4
+00:00:21,000 --> 00:00:29,000
+Okay, so the agenda for my presentation is what do I need to start the course right, then what should I expect in the following days.
+
+5
+00:00:29,000 --> 00:00:33,000
+What should I do to successfully complete the bootcamp.
+
+6
+00:00:33,000 --> 00:00:41,000
+And of course we all want you to complete the bootcamp successful will be my point of contact and then you will meet your teaching team.
+
+7
+00:00:41,000 --> 00:00:47,000
+So what do I need to start the course right first very important beyond slack.
+
+8
+00:00:47,000 --> 00:00:55,000
+I know if you are working with like for the first time it can be a little bit confusing because we are working with two different workspaces.
+
+9
+00:00:55,000 --> 00:00:59,000
+You have the general workspace which is the light blue one.
+
+10
+00:00:59,000 --> 00:01:04,000
+And there you can find every iron hacker ever and also the data pre work help channel.
+
+11
+00:01:04,000 --> 00:01:09,000
+And then you already received a link for the class workspace.
+
+12
+00:01:09,000 --> 00:01:14,000
+It's like where all the daily communication takes place so it's mandatory to join there.
+
+13
+00:01:14,000 --> 00:01:16,000
+I think not everyone joins by now.
+
+14
+00:01:16,000 --> 00:01:18,000
+That's what I saw.
+
+15
+00:01:18,000 --> 00:01:23,000
+If you're struggling finding the link or struggle joining select just reach out to me.
+
+16
+00:01:23,000 --> 00:01:29,000
+And in the class workspace you have like all your teaching team and all your colleagues.
+
+17
+00:01:29,000 --> 00:01:33,000
+Then in terms of pre work so pre work should be ready by now.
+
+18
+00:01:33,000 --> 00:01:36,000
+If not please reach out to me.
+
+19
+00:01:36,000 --> 00:01:46,000
+The thing we are so strict on pre work deadline is at first it's you do yourself a favor because if you don't do pre work, you won't be able to follow the course.
+
+20
+00:01:46,000 --> 00:01:52,000
+Because the course is fast paced and it's way easier for you if you have like the insights from pre work.
+
+21
+00:01:52,000 --> 00:01:58,000
+On the other side your teaching team will look through the pre work and they need to provide some feedback.
+
+22
+00:01:58,000 --> 00:02:07,000
+And they will start this week and in order to give them a little bit time to work to go through the pre work it's mandatory to have it finished by now.
+
+23
+00:02:07,000 --> 00:02:17,000
+And also my advice is if you have the time now also do stage zero off career because the more you do now you will be happy during the bootcamp.
+
+24
+00:02:17,000 --> 00:02:22,000
+And if you already finished with pre work, enjoy the last three weekend.
+
+25
+00:02:22,000 --> 00:02:28,000
+Or free Saturday at least. And then what should I expect in the following days.
+
+26
+00:02:28,000 --> 00:02:36,000
+So today is week zero we call it big zero because it's the week before your bootcamp starts and today is day zero.
+
+27
+00:02:36,000 --> 00:02:44,000
+Then in week one you have your first day of the bootcamp on Tuesday I will send the invitation with the link and all the information.
+
+28
+00:02:44,000 --> 00:02:51,000
+And after this meeting today so we will start on Tuesday at 630 central European time.
+
+29
+00:02:51,000 --> 00:03:00,000
+And please be punctual because we will start with a presentation and afterwards you start the journey.
+
+30
+00:03:00,000 --> 00:03:04,000
+Then what should I do to successfully complete the bootcamp.
+
+31
+00:03:04,000 --> 00:03:13,000
+During the bootcamp in terms of dedication you will need to know that there will be times where you need to work outside bootcamp hours.
+
+32
+00:03:13,000 --> 00:03:22,000
+So you have the bootcamp hours but in terms of labs or projects for example, you will be asked to work also on other days that are not bootcamp hours.
+
+33
+00:03:22,000 --> 00:03:28,000
+And also you will work in individual projects but also in group projects and activities.
+
+34
+00:03:28,000 --> 00:03:32,000
+For the in class dynamics, please please have your camera on.
+
+35
+00:03:32,000 --> 00:03:42,000
+You will recognize that it's way easier and the way more familiar atmosphere if you can see each other's faces and also connecting to each other is way easier.
+
+36
+00:03:42,000 --> 00:03:49,000
+And also it provides the teaching team with feedback in how you're getting the content or if you're completely lost.
+
+37
+00:03:49,000 --> 00:04:06,000
+The mic's are turned off during the lecture time but of course if you have any questions just turn off your turn on your mic and ask the question and don't be shy asking questions, because even if you are the only one asking 100% sure you're not the only one with the question.
+
+38
+00:04:06,000 --> 00:04:14,000
+In terms of graduation so we don't work with greats at iron hack but we have other criteria to fulfill in order to graduate.
+
+39
+00:04:14,000 --> 00:04:20,000
+The first one is the attendance so you're not allowed to miss more than seven classes or you want to graduate.
+
+40
+00:04:20,000 --> 00:04:29,000
+And in terms of functionality if you arrive 10 minutes to late, it counts as a party and if you have three parties it counts as an absence day.
+
+41
+00:04:29,000 --> 00:04:37,000
+So meaning if you arrived three times 10 minutes late it counts as if you wouldn't be there for one day in terms of labs.
+
+42
+00:04:37,000 --> 00:04:45,000
+Of course we recommend to have 100% lab completion because the labs are the perfect time to put everything you learned in practice.
+
+43
+00:04:45,000 --> 00:04:54,000
+So you do yourself a favor if you do 100% of the labs, but if you do less than 80% you won't graduate.
+
+44
+00:04:54,000 --> 00:05:08,000
+So in terms of the project with which is the third criteria to graduate, you will need to present them and do all of them by your own and they need to be up to a certain standard.
+
+45
+00:05:08,000 --> 00:05:11,000
+Then who will be my point of contact.
+
+46
+00:05:11,000 --> 00:05:18,000
+There are several people involved in your iron hack experience which is firstly your lead teacher which is the lead.
+
+47
+00:05:18,000 --> 00:05:29,000
+And in the field and responsible of the class performance and leading the class, you can contact him so slack, then you have two amazing teacher systems from Salu and Miguel.
+
+48
+00:05:29,000 --> 00:05:35,000
+They are the experts in the student experience and your goal two persons for any technical questions or support.
+
+49
+00:05:35,000 --> 00:05:39,000
+And you can also reach out to them on slack.
+
+50
+00:05:39,000 --> 00:05:56,000
+I am your program manager and responsible for a successful experience. And my aim is to that you have like the easiest experience possible and you help me with that with providing feedback so you'll ask you for filling out the survey every two weeks.
+
+51
+00:05:56,000 --> 00:06:06,000
+And I will please you to fill out the survey because there I can see how you're doing and how we can help you in if there's something you struggle with.
+
+52
+00:06:06,000 --> 00:06:11,000
+And also besides the survey I will reach out to you for a short one on one it's like a 15 minute chat.
+
+53
+00:06:11,000 --> 00:06:16,000
+So don't worry it's completely normal that at one point I will reach out to you.
+
+54
+00:06:16,000 --> 00:06:31,000
+And then there is your student success manager which is one you will meet him in the second week of the bootcamp and also and to other touch points he will help you with the chop hunting, getting your profile done on LinkedIn and CV.
+
+55
+00:06:31,000 --> 00:06:40,000
+And also after the bootcamp he will be the one leading your career week and also you will have the one who wants with him.
+
+56
+00:06:40,000 --> 00:06:45,000
+And now this was it already from my site.
+
+57
+00:06:45,000 --> 00:06:48,000
+I will share my screen.
+
+58
+00:06:48,000 --> 00:06:54,000
+Now I give the stage to your teaching team.
+
+59
+00:06:54,000 --> 00:06:58,000
+Okay, thank you Emily. Excellent.
+
+60
+00:06:58,000 --> 00:07:08,000
+So nice to meet you all. I'm David. I am going to be a lead teacher for this for the next six months.
+
+61
+00:07:08,000 --> 00:07:16,000
+I do have a couple of slides there's not that they're not that insightful but I will share them anyway.
+
+62
+00:07:16,000 --> 00:07:28,000
+So let me ensure that I'm sharing the correct screen and I'm going to share the full screen because I may navigate some some other panels here.
+
+63
+00:07:28,000 --> 00:07:31,000
+So welcome everyone.
+
+64
+00:07:31,000 --> 00:07:50,000
+Today, we are doing here that is day zero exercise where it's it's to make sure that come next Tuesday we are ready to start you will very, very quickly discover that the pace is very, very fast.
+
+65
+00:07:50,000 --> 00:08:05,000
+So we tried to make sure that we're not, let's say wasting time on making sure that we have these are that program installed or that something is running or something of that sort.
+
+66
+00:08:05,000 --> 00:08:11,000
+So we're going to take this moment here to make sure that we're all on the same page.
+
+67
+00:08:11,000 --> 00:08:27,000
+And I'd also like time permitting that we could go round table and have everyone doing a couple of words, your name, how do you spell it or because we are, we are very diverse cohort.
+
+68
+00:08:27,000 --> 00:08:41,000
+And go to the toolkit that we're going to be using during this cohort at least in the beginning. And we'd like to start with a very, very quick presentation of who we are.
+
+69
+00:08:41,000 --> 00:08:53,000
+Most of this content, by the way, we are going to go very quickly over it on Tuesday anyway, just in case someone is watching this on the on the recording.
+
+70
+00:08:53,000 --> 00:09:10,000
+So we are still so if you have questions, you will still have the opportunity to ask them even if they are not like. So, here is the amazing teaching team and I'm super stoked that we have this, this team without this is these are all.
+
+71
+00:09:10,000 --> 00:09:24,000
+Well, at least the last two are amazing people. The first one is what you got that like, but with this, you are, you are going to, you are going to see that they're all all conditions are there.
+
+72
+00:09:24,000 --> 00:09:47,000
+So you're the teaching that's here is this three people, the first one is me, I am the V. I'm going to be our lead teacher, I have spent roughly half of my life in in consulting roles, and half of my life in more analytic flash AI roles.
+
+73
+00:09:47,000 --> 00:10:07,000
+So, I started my career in a consulting company called the same company. Then I took my machine learning, I worked for quite a few years as head of data analytics that's a very large French bank, all them to Paris.
+
+74
+00:10:07,000 --> 00:10:36,000
+And I went back to consulting a little bit for another well known consulting company, well been in company. Then I became a teacher at Ironhack. And currently, my role is as a head of AI in a company that that social media moderation and tries to get conversations on social media a little bit more civil.
+
+75
+00:10:36,000 --> 00:10:43,000
+The rate of success here is debatable, but at least we're trying.
+
+76
+00:10:43,000 --> 00:10:57,000
+So I've been, I thought quite a few of these of these cohorts. This is my second time doing this truly remote and part time. So you're not going to be complete.
+
+77
+00:10:57,000 --> 00:11:14,000
+You are only going to be partial. So that's, I hope, something that we can, that we can exploit to tweak and make things work better over time.
+
+78
+00:11:14,000 --> 00:11:27,000
+The cohort is quite large, but there is one thing here that at Ironhack that I like quite a bit is that we have a lot of a lot of leeway a lot of independence.
+
+79
+00:11:27,000 --> 00:11:39,000
+So if you at any point find that anything in the process is not working out for you as well as it could, if you have an idea of something that, oh, this would be low hanging if we just implemented these.
+
+80
+00:11:39,000 --> 00:11:48,000
+We spent more time on this on that. Just let us know we are not so tightly bound by the curriculum that we cannot adapt.
+
+81
+00:11:48,000 --> 00:12:00,000
+So, yeah, just keep that in mind. I'm going to give the floor to go on top with one of our two amazing TA, the controller.
+
+82
+00:12:00,000 --> 00:12:02,000
+Sorry, yours.
+
+83
+00:12:02,000 --> 00:12:14,000
+Hello everyone. First of all, let me start by saying that I really need to change this picture because I'm super mad at this photo and I'm hardly ever met.
+
+84
+00:12:14,000 --> 00:12:19,000
+So this does this photo never met my style basically.
+
+85
+00:12:19,000 --> 00:12:32,000
+So the camera today is lacking but next lesson is going to be way better. So hi, I'm Gonzalo, I'm from Portugal. This is my second cohort in teaching.
+
+86
+00:12:32,000 --> 00:12:37,000
+Like you, I also did the boot camp, but it was full time.
+
+87
+00:12:37,000 --> 00:12:47,000
+And it was on site. So it was a little bit different, but for sure the journey that I have, yours is going to be two or three times even better.
+
+88
+00:12:47,000 --> 00:12:58,000
+And with everything that you're going to need to make this journey everlasting, basically. And I'm really, really stoked to be in this team as well.
+
+89
+00:12:58,000 --> 00:13:10,000
+So yeah, let's let's accomplish some goals and some some future new of yourselves in the next six months.
+
+90
+00:13:10,000 --> 00:13:16,000
+Excellent. Thank you so much, Gonzalo. And next up we have the meeting Miguel. Miguel.
+
+91
+00:13:16,000 --> 00:13:25,000
+Hello, hello everyone. Nice to meet you people. I'm Miguel and I'm from Valencia here in Spain.
+
+92
+00:13:25,000 --> 00:13:42,000
+And yeah, I was also a data student from my own in Barcelona in 2020 so my course was intended to be on site I mean person but we did everything on remote so this is not the first time I'm working for remote.
+
+93
+00:13:42,000 --> 00:13:59,000
+And after this time the boot camp I joined I know I got a TIA during three more good comes one of them was working with with David, which was a great experience so so yeah after that I, but I'm by a technology star and I did my PhD in Barcelona so
+
+94
+00:13:59,000 --> 00:14:15,000
+I moved to Valencia to do research last year so I've been like one year doing research here in in Valencia but now I'm super happy to combine both of my of my love jobs I would say.
+
+95
+00:14:15,000 --> 00:14:28,000
+It's in and doing research. So yeah, that's everything really happy to meet you and don't miss I ask forever and we will be super happy to help you.
+
+96
+00:14:28,000 --> 00:14:39,000
+Thank you. Thank you Miguel. So, yeah, so this is, this is the team you have. This is what we have to work with and it's going to be amazing. I'm pretty sure.
+
+97
+00:14:39,000 --> 00:14:51,000
+So folks before we move on. Just a couple of, I mean, think some of them are repeating a little bit what I'm really sad that they really work so
+
+98
+00:14:51,000 --> 00:15:06,000
+first I would ask you I mean of course, we're not going to force you to do anything of course, but I would ask you to try as much as possible to keep the cameras on. It helps the teaching staff a lot because they see a lot I mean this is a remote.
+
+99
+00:15:06,000 --> 00:15:27,000
+It already has some like impairment in communication we need to overcome it so keep the cameras on and don't don't be shy on on say like overreacting right it's we are we've been all in this like remote world for for for a while now.
+
+100
+00:15:27,000 --> 00:15:42,000
+So if you if you if you want to send the message that something is not like fully on board just like great your eyebrow a lot right to make sure that you get that message across.
+
+101
+00:15:42,000 --> 00:16:06,000
+I mean you don't need to but it helps. We read a lot into your your visual cues and facial expressions and so on. Also, don't be shy on using these little emotes buttons that I am trying to find here you are probably not seeing them because I don't think zoom chairs stuff but
+
+102
+00:16:06,000 --> 00:16:11,000
+there are ways of the molding.
+
+103
+00:16:11,000 --> 00:16:24,000
+The reactions maybe visit. Yes. So usually I am going you'll see that I am going to ask a lot of times that like rhetorical everything okay everyone with me so far everyone.
+
+104
+00:16:24,000 --> 00:16:36,000
+Don't make it so rhetorical so usually give me a thumbs up like this if if you if you are following if it's feeling fine.
+
+105
+00:16:36,000 --> 00:16:43,000
+If I'm saying something and you're like what this guy talking about I usually reserved this mode for that.
+
+106
+00:16:43,000 --> 00:16:55,000
+I'm just like oh my god what's going on here. So if I start seeing this and if I and if I don't see a lot of the other one.
+
+107
+00:16:55,000 --> 00:17:13,000
+We use this as as as weak signals and also don't hesitate at all just to and you can say just just go over it again. I'm sorry. I'm absolutely fine with that. It's it's absolutely expected.
+
+108
+00:17:13,000 --> 00:17:27,000
+So I'm going to point here that should discuss we are probably at least some of us are going to be in different time zones. So all times whenever I speak about times I'm talking about Central European time.
+
+109
+00:17:27,000 --> 00:17:42,000
+I'm just like Spain, Germany, France. This is kind of like time block. You're in green which time it's your little bit towards just like do the quick math in your in your head.
+
+110
+00:17:42,000 --> 00:17:59,000
+So because right now I am in Portugal. You will see that the time that is going to be shared on my screen on my screen probably doesn't match your time. And in advance because it's going to happen.
+
+111
+00:17:59,000 --> 00:18:16,000
+So I'm wrong at some point. So make sure to clarify if I say, oh let's take a break and be back at 530 just go. I think you mean 630 right so that usually when it's a temporal impossibility it's easy to pick it up but when it's the other way around.
+
+112
+00:18:16,000 --> 00:18:29,000
+So I don't show up an hour late because I said something wrong. Also timing you will see it's going to be very evident very quickly.
+
+113
+00:18:29,000 --> 00:18:46,000
+So timing is very, very constrained in the boot camp. So timing is very strict right so it's going to be very like things are going to start at time I'm going to start talking at the dots.
+
+114
+00:18:46,000 --> 00:18:58,000
+But just just bear that in mind, don't read too much into the fact that teaching staff is all either for two years or Spanish we are actually going to start on time.
+
+115
+00:18:58,000 --> 00:19:09,000
+Okay, folks. So that's it. I don't know do you have any any questions so far.
+
+116
+00:19:09,000 --> 00:19:26,000
+Those sounds good so far. So what I would like to do is I would like to spend the next five to 10 minutes. Just going over the list of software that you have that you should have installed in your computer by now it's supposed to be pre requisite
+
+117
+00:19:26,000 --> 00:19:42,000
+that everyone in a while we get a we get a couple of like versions of things that don't necessarily align with what we install in our computer so I just wanted to, while I have my screen share, show you how things should look in your computer.
+
+118
+00:19:42,000 --> 00:19:56,000
+Now, of course, as you see, I'm in a Windows environment. So if you are using a different environment, if you're in Linux, or if you are on a Mac, things are going to look slightly different, but only automatically.
+
+119
+00:19:56,000 --> 00:20:05,000
+And hopefully everything that I'm going to go over is going to be something that you can recognize as being somewhere in your computer.
+
+120
+00:20:05,000 --> 00:20:14,000
+If you are meeting some of the software, or if you had trouble installing some of the software, reach out to us, you can reach out to us.
+
+121
+00:20:14,000 --> 00:20:19,000
+As Emily just mentioned, flag is the preferred option. It's.
+
+122
+00:20:19,000 --> 00:20:28,000
+It's a synchronous, it means you can ask the question and we can pick it up as we have time. So that's the best way of doing it.
+
+123
+00:20:28,000 --> 00:20:38,000
+It's like it's the thing that is bothering you just unmute and say, do that need you. And once we're done here, we'll stay with you.
+
+124
+00:20:38,000 --> 00:20:46,000
+Okay, so whenever you're in telling any of this crap, all the options can be left on default. Everything works.
+
+125
+00:20:46,000 --> 00:21:06,000
+We're going to like no bells and whistles, we're going to do vanilla everything. And something requires some registration. So just like make sure that you let us know if you use a particular moniker, a particular username that doesn't map easily to you, right?
+
+126
+00:21:06,000 --> 00:21:16,000
+So I don't know, Dragon Slayer Lord 73 just let us know because otherwise we won't be able to find you to add you to the relevant channel.
+
+127
+00:21:16,000 --> 00:21:25,000
+Cool. So what things should you have now, thing number one, what you must have is like this thing over here.
+
+128
+00:21:25,000 --> 00:21:38,000
+So you should have an interface that looks like this, yours might be black screen or white screen or whatever it is. And in black, you should have two channels. Channels are these things here.
+
+129
+00:21:38,000 --> 00:21:49,000
+Actually, are these workspaces two workspaces. And you should have two of them. One is called Iron Hat General, which I think it's this one.
+
+130
+00:21:49,000 --> 00:21:58,000
+I'm actually not sure there's a lot of iron, but I think it's the one that looks like this that has that is like the blue iron, a logo. You should have been invited to this.
+
+131
+00:21:58,000 --> 00:22:07,000
+And the other one, which for my own selfish purposes is the one I really needed to have is this one that is called.
+
+132
+00:22:07,000 --> 00:22:20,000
+The A T T six, which stands for that analytics part time, six of September, which is the first day of our cohort. It will be the good thing is like it, it has this rainbow attack.
+
+133
+00:22:20,000 --> 00:22:24,000
+So if you have one with a rainbow attack chances are you are you are in the right place.
+
+134
+00:22:24,000 --> 00:22:36,000
+There you have several channels. We are going to mostly be using this main general channel to communicate class announcements, things that we must remember.
+
+135
+00:22:36,000 --> 00:22:48,000
+Like group projects, things like this, there will be announced, there will be announced here. Another thing that is very helpful here in this general channel, you can navigate the channels here, by the way.
+
+136
+00:22:48,000 --> 00:22:56,000
+Is that king to the top, which means always here below the name of the channel, we will have relevant links.
+
+137
+00:22:56,000 --> 00:23:11,000
+In this case, there's a very important link here, which is a zoom link, and you will click this link to access our class. Right. So next Tuesday, six 30 maximum.
+
+138
+00:23:11,000 --> 00:23:13,000
+I recommend a little bit earlier.
+
+139
+00:23:13,000 --> 00:23:29,000
+Select you will click this link, zoom will open for you. It will say the one to connect with your computer sound, etc, etc. This is going to be our platform. It will always be open. You are you can, for example, if you need to join up with someone discuss something can always go there.
+
+140
+00:23:29,000 --> 00:23:38,000
+Of course, while we're having classes, please refrain from having discussions with other people. But I think that goes without saying. So really important.
+
+141
+00:23:38,000 --> 00:23:53,000
+So other links will show up here as necessary for time being, we just need this one. Okay. So hopefully this one, there's no one who has to have trouble accessing. If you don't have this yet.
+
+142
+00:23:53,000 --> 00:24:11,000
+One of those would that you must have by Tuesday, by Tuesday. So if you don't have this yet, say a little later, send us an email and we'll help you set it up. Okay. Any questions anyone with unclear how to access the classroom.
+
+143
+00:24:11,000 --> 00:24:13,000
+Come Tuesday.
+
+144
+00:24:13,000 --> 00:24:19,000
+Just click there and zoom will open it. Don't do it now. Otherwise, you will leave this meeting. Okay.
+
+145
+00:24:19,000 --> 00:24:22,000
+So next.
+
+146
+00:24:22,000 --> 00:24:35,000
+Second thing that you must have by Tuesday for sure. It's Python. And in particular, you need to have an interface by then which is Jupiter. So you should all have by now.
+
+147
+00:24:35,000 --> 00:24:50,000
+Start and begin. If you haven't done it by now, you should all have seen this kind of interface that that that we're seeing here. Something that runs on your on your browser that has Jupiter that has little boxes.
+
+148
+00:24:50,000 --> 00:25:05,000
+So this is the main interface that we're going to use to to to program in in Python. This is called a notebook. We're going to go over this on on on Tuesday. But hopefully you have something that looks like this in your computer.
+
+149
+00:25:05,000 --> 00:25:06,000
+If you don't.
+
+150
+00:25:06,000 --> 00:25:14,000
+This is another one that we need to solve today. Okay. So just if you if you if you need something here, let us know.
+
+151
+00:25:14,000 --> 00:25:25,000
+And now I think that this one I actually don't know if you already have access to. I'm really do they have access to the student portal already.
+
+152
+00:25:25,000 --> 00:25:35,000
+Yes, they do. Okay, because I think that's the prereq like they don't see the curriculum only the prereq part. Okay. Excellent. Okay. So the other tool that we're going to do is quite a bit.
+
+153
+00:25:35,000 --> 00:25:49,000
+It's going to be this student portal that is going to look like this. It's going to have this organization in little rectangles that we're also going to fall pills. We're going to go over this again on on the next path.
+
+154
+00:25:49,000 --> 00:25:58,000
+If you don't have this. This is another one of those of Oh my god, you're already going to run quite a little quite a bit if you have never seen.
+
+155
+00:25:58,000 --> 00:26:12,000
+Okay, but this one also quite an important tool. So these are the Cinequanones right this this without this your data on the water you need to you need to work to get this before we start to.
+
+156
+00:26:12,000 --> 00:26:14,000
+Okay.
+
+157
+00:26:14,000 --> 00:26:16,000
+Any questions so far.
+
+158
+00:26:16,000 --> 00:26:21,000
+To make a quick pause here because these ones were the really, really important ones.
+
+159
+00:26:21,000 --> 00:26:36,000
+Now just for the critical ones. So the next thing you need to have is this thing called it. And now there's a little bit of confusion because there are two things that work together, but are actually two different pieces of software there's get.
+
+160
+00:26:36,000 --> 00:26:38,000
+And there's GitHub.
+
+161
+00:26:38,000 --> 00:26:54,000
+Give it something that leaves in your computer that you install. And that ideally you should already have it's how you are going to submit your left and it's also one of the main tools that we use for large scale programming.
+
+162
+00:26:54,000 --> 00:27:06,000
+And it's something that you can check if you have by going to either a command prompt or your terminal if you don't know what to access the command prompt just go in Windows go here and write CMD.
+
+163
+00:27:06,000 --> 00:27:14,000
+And in Mac go to finder and write terminal and it should open something like this the black screen like this.
+
+164
+00:27:14,000 --> 00:27:26,000
+And here you can just go get and actually you can just go get enter and you should see some message other than I don't know what it is.
+
+165
+00:27:26,000 --> 00:27:31,000
+Okay, if you see anything other than I don't know what it is you're good to go.
+
+166
+00:27:31,000 --> 00:27:38,000
+Okay, if you do will discuss it later. This is the thing you need to have in your computer.
+
+167
+00:27:38,000 --> 00:27:44,000
+To go with this, you also need to have an account on something called GitHub.
+
+168
+00:27:44,000 --> 00:27:47,000
+So you go to a browser.
+
+169
+00:27:47,000 --> 00:27:59,000
+Say for example Chrome, which is the one I'm going to be using. You don't need to be using Chrome. I mean, I recommend that you would be using Chrome just because then the things you will see are the same exact things that I will see.
+
+170
+00:27:59,000 --> 00:28:10,000
+You don't need to translate thing, but you can use another browser if you are allergic to Chrome for whatever reason, and you can just go GitHub.
+
+171
+00:28:10,000 --> 00:28:17,000
+Just go to the site GitHub and if you don't have an account sign up for one.
+
+172
+00:28:17,000 --> 00:28:18,000
+Okay.
+
+173
+00:28:18,000 --> 00:28:29,000
+So, I hope it's something that you can I mean there's a wizard that that let you create the account.
+
+174
+00:28:29,000 --> 00:28:44,000
+So this is to you should also have by Tuesday because these are the things that are going to allow you to submit not only your pre work but also your labs and and as we've already discussed labs are a mandatory part of the of the experience
+
+175
+00:28:44,000 --> 00:28:54,000
+also, you need these things to work in programming nowadays. So it's part of the things you need to learn how to use.
+
+176
+00:28:54,000 --> 00:29:06,000
+Now things that you don't need to have right now but you're going to have to to have at some point. So the first one is called my workbench, which is something that has these like little vaulting symbol there.
+
+177
+00:29:06,000 --> 00:29:22,000
+Right. So ideally, you will have installed this in your computer and you will have a little rectangle here for a local instance. If you don't, that's not such a big deal when we get to SQL, we will discuss it.
+
+178
+00:29:22,000 --> 00:29:31,000
+But a really, really, really, really important thing. If you are installing my workbench right now.
+
+179
+00:29:31,000 --> 00:29:42,000
+So you're going to need to remember your password. If you forget your password, the only way to recover it is going to be to uninstall the whole thing and install it again.
+
+180
+00:29:42,000 --> 00:29:47,000
+So this is one of those cases where when it talks to you to choose a password.
+
+181
+00:29:47,000 --> 00:29:55,000
+Just like memorize it, save it somewhere. Just otherwise come week three.
+
+182
+00:29:55,000 --> 00:30:00,000
+We're all going to spend 10 minutes here waiting for people to reset their password.
+
+183
+00:30:00,000 --> 00:30:03,000
+Any questions so far.
+
+184
+00:30:03,000 --> 00:30:17,000
+I see there's a few questions in chat. So let me quickly go through that. That's fine. That's fine. All that's good. I don't actually, I can't actually see if you are seeing. I'm just looking at the chat.
+
+185
+00:30:17,000 --> 00:30:39,000
+Okay, Miguel, thank you. GitHub desktop app. You may want to use it or not. I am not going to use the desktop app. Mainly because I'd rather teach you the GitHub, the language that you can interact regardless of having
+
+186
+00:30:39,000 --> 00:30:50,000
+an interactive app or not, a graphical user interface or not. If you prefer to use the graphical user interface, that's absolutely fine. I'm answering here my nooks question.
+
+187
+00:30:50,000 --> 00:30:59,000
+What about GitHub desktop app? Okay. Oh, Miguel actually answered it. Thank you, Miguel, for that. Okay, cool.
+
+188
+00:30:59,000 --> 00:31:17,000
+So that's my SQL workbench. Now, another piece of software that you need to have installed is Tableau and Tableau has again, just like it and GitHub has a dual thing.
+
+189
+00:31:17,000 --> 00:31:33,000
+There's one thing that you install in your computer, which is called Tableau public desktop edition. And here Tableau made a mess of their naming conventions because there is something called Tableau desktop edition.
+
+190
+00:31:33,000 --> 00:31:48,000
+And there's called something called Tableau public. And there is something called Tableau public desktop. And what we need is Tableau public desktop, which is something that installs in your computer. And that once opened looks like this.
+
+191
+00:31:48,000 --> 00:32:06,000
+And what I recommend is that you Google Tableau public desktop, and then navigate a little bit until you find here all these options here and you go to Tableau public and you go log into Tableau public.
+
+192
+00:32:06,000 --> 00:32:28,000
+And then here you need to sign up, and this will create an account on Tableau public, which is this thing here, the account. And once you are logged into your account, you ask to download the Tableau public desktop installer, which installs this thing in your computer.
+
+193
+00:32:28,000 --> 00:32:45,000
+And I know it's a mess, it's tedious, but hopefully it will work out. Okay, if you find this confusing, I find it confusing as well. But if you get locked, just let us know and we'll help you with this.
+
+194
+00:32:45,000 --> 00:32:59,000
+All the time so far. Now, another thing that you are going to need is going to be Office 365. This is mostly to have access to Excel.
+
+195
+00:32:59,000 --> 00:33:21,000
+We are going to actually only discuss Excel far, far down the road. So if you don't have access to Office 365 yet, that is fine. We, but if you already have it for whatever reason, for your own personal reasons or for work or whatever that's going to work well as well.
+
+196
+00:33:21,000 --> 00:33:30,000
+If you need an Office 365 account, I'm going to leave, correct me if I'm wrong, they need to speak to you.
+
+197
+00:33:30,000 --> 00:33:36,000
+Right, yes, I will send us a survey one time in the boot camp for the actual license.
+
+198
+00:33:36,000 --> 00:33:52,000
+Anyway, this is a few months down the road. So we're fine on this. Now, one thing that I carefully recommend is that especially if you use Chrome is to get the Google Colab plugin.
+
+199
+00:33:52,000 --> 00:34:11,000
+This is not mandatory. You can do everything with a group of your notebook, but I personally like to use a plug in for Chrome that allows me to program in the browser directly and just just access the material of the class using the link.
+
+200
+00:34:11,000 --> 00:34:15,000
+It's very convenient. This is called Google Colab.
+
+201
+00:34:15,000 --> 00:34:32,000
+And you don't need to install the plug in that the plugin makes it easier for things to open. They open posture. So you can just go to Chrome and go Google Colab plugin and and and install the first.
+
+202
+00:34:32,000 --> 00:34:47,000
+The first hit there if you are using any of the modern browsers that that will save you a few seconds every day. That's essentially it's not groundbreaking, but it helps.
+
+203
+00:34:47,000 --> 00:35:06,000
+Okay, so recommend that you do it. You don't need to. Another one that I recommend that you do is that you create a Trello account. So Trello for those of you who don't know what it is, is a project management tool. It helps you, especially in the group projects that it's also helpful to doing
+
+204
+00:35:06,000 --> 00:35:25,000
+in personal projects to help you program out and map out how you want your project to be done. How long things should take, where are your blockers, etc, etc. It's a nice project management tool. We do recommend that you create an account here.
+
+205
+00:35:25,000 --> 00:35:46,000
+It's free as for everything that has an account in this path. So the GitHub, the public account, and the Trello account, please send your usernames to our TA so that we can add you to anything that is class wide.
+
+206
+00:35:46,000 --> 00:35:48,000
+Okay.
+
+207
+00:35:48,000 --> 00:36:05,000
+So far, final thing that I would recommend you to have, even though it's not mandatory. It's one of the things that's not mandatory, but you must have it is to have an ID development environment.
+
+208
+00:36:05,000 --> 00:36:21,000
+And usually one that works well with Python. If you install something called an Aconda, which I think is recommended in the pre work material, you should have something in your computer called spider that works perfectly well.
+
+209
+00:36:21,000 --> 00:36:37,000
+I like to use one called the code, which kind of like looks like this. I, you just should have a place where you can just write code that is not a notebook that doesn't have this kind of like little cells.
+
+210
+00:36:37,000 --> 00:36:57,000
+So we're going to be using IDs to essentially write the codes that we will then serve in our in our projects things that are a little bit more industrial grade than the teaching moments that we are going to be doing using the notebook
+
+211
+00:36:57,000 --> 00:37:11,000
+Okay, all of these will become much more crystallized in the coming days. This is more for you to be aware that sometimes some of these screens may pop up.
+
+212
+00:37:11,000 --> 00:37:25,000
+Okay, so, next question. Oh, by the way, the other man is already thing that going to assume everyone has is a zoom account that you should have. So, so you can, of course, access zoom just be at the browser.
+
+213
+00:37:25,000 --> 00:37:41,000
+So, if you install the zoom app, you get access to a couple more features, you get to blurry our background in case you are in someplace that is busy or things like that you get to do some reaction, some emotes.
+
+214
+00:37:41,000 --> 00:37:49,000
+It helps immersion a little bit so I do recommend that you create a zoom account you are of course not mandated to do it.
+
+215
+00:37:49,000 --> 00:37:52,000
+Okay.
+
+216
+00:37:52,000 --> 00:38:01,000
+Yes, I have one maybe so sorry, I didn't why we have to serve a trailer account.
+
+217
+00:38:01,000 --> 00:38:07,000
+Well, I mean, we may invite we may create some central.
+
+218
+00:38:07,000 --> 00:38:13,000
+We may create some central accounts where we need to invite you.
+
+219
+00:38:13,000 --> 00:38:30,000
+So, for example, for when we have like large problem projects one way that we track your progress on the project is, is to create a line for everyone of you, where it's not really for project management is more for us to track how you are doing.
+
+220
+00:38:30,000 --> 00:38:44,000
+So, we need to like we need to invite you, right, so you, we need to know your, like handle your tag, your username, right, so that we can invite you so that you can have your own line.
+
+221
+00:38:44,000 --> 00:38:47,000
+Oh, okay, I would try. Thank you, Debbie.
+
+222
+00:38:47,000 --> 00:38:48,000
+Thank you.
+
+223
+00:38:48,000 --> 00:38:49,000
+Cool.
+
+224
+00:38:49,000 --> 00:38:54,000
+I noticed a couple more questions here useful to organize projects. Okay.
+
+225
+00:38:54,000 --> 00:38:55,000
+Okay.
+
+226
+00:38:55,000 --> 00:39:05,000
+Folks, I think that's it in terms of tools, anything overwhelming.
+
+227
+00:39:05,000 --> 00:39:06,000
+Good.
+
+228
+00:39:06,000 --> 00:39:18,000
+So that's it for the things that we have to cover before we before we get to adjourn for next Tuesday.
+
+229
+00:39:18,000 --> 00:39:22,000
+I'm, I'm going to.
+
+230
+00:39:22,000 --> 00:39:30,000
+I'm going to open the floor for questions, let's say, but I would also like if time per meeting.
+
+231
+00:39:30,000 --> 00:39:37,000
+If we could go around the table and just have a quick, quick introduction just hi, my name is X.
+
+232
+00:39:37,000 --> 00:39:43,000
+I'm from country Y or whatever, like, you'd like to share.
+
+233
+00:39:43,000 --> 00:39:53,000
+If you want to tell it your background, your reason to join a bootcamp, something that gives us a bit of information about you.
+
+234
+00:39:53,000 --> 00:40:01,000
+That'd be okay. And what I will recommend that we do because we're not necessarily all order in the same way in everyone's presence that I'm going to share.
+
+235
+00:40:01,000 --> 00:40:08,000
+I'm going to choose the first person to go. And then that person will choose the next person to go. Okay.
+
+236
+00:40:08,000 --> 00:40:17,000
+So we will pass the ball to someone else. Right. So I'm going to start like thing. Okay. I am the VID. I am. I'm from Portugal.
+
+237
+00:40:17,000 --> 00:40:29,000
+I joined. I joined the boot camp because, well, because it's my job. So there we go. That's, that's me. And I'm going to pass the ball to.
+
+238
+00:40:29,000 --> 00:40:40,000
+Hi, everyone. I don't know if you are. You are hearing me. Okay. I am from Spain, from Madrid, but I live in our apartment.
+
+239
+00:40:40,000 --> 00:40:45,000
+I'm with a number of people. And that's all. And I.
+
+240
+00:40:45,000 --> 00:40:49,000
+I try to pass the ball to Adrian.
+
+241
+00:40:49,000 --> 00:41:02,000
+Oh, great. I am Adrian Flores. I'm also from Spain. I'm currently working in Madrid. I have been working as a marketing minor there for the last six years.
+
+242
+00:41:02,000 --> 00:41:13,000
+And I always love data, everything like Google analytics, that's to do so that the reason I decided to take this. I don't have a good come.
+
+243
+00:41:13,000 --> 00:41:25,000
+I think it's time for Oscar Iglesias, your turn.
+
+244
+00:41:25,000 --> 00:41:31,000
+Only if Oscar Iglesias is here. Hello.
+
+245
+00:41:31,000 --> 00:41:45,000
+I'm Oscar Iglesias. I'm from Spain. I'm working in anything orancy on my life. I was working in technology.
+
+246
+00:41:45,000 --> 00:41:48,000
+Working with that.
+
+247
+00:41:48,000 --> 00:41:52,000
+I like to improve my career.
+
+248
+00:41:52,000 --> 00:42:00,000
+I'm joined to, I'm happy to be to see if I can boost my my career.
+
+249
+00:42:00,000 --> 00:42:08,000
+And then for the moment is, the next turn is to, she like, I'm.
+
+250
+00:42:08,000 --> 00:42:19,000
+Hi, thanks. So my name is Sean. I'm originally from China, but now I'm living in Germany and working here at a local bank.
+
+251
+00:42:19,000 --> 00:42:28,000
+The reason why I want to join this book is because I also have to deal with a lot of data in my daily work. So I want to promote my job.
+
+252
+00:42:28,000 --> 00:42:38,000
+Maybe after the book and I'm also have to scale the knowledge to apply for another job, just to try something new.
+
+253
+00:42:38,000 --> 00:42:44,000
+So happy to you to meet everyone. And I'm so excited to get started next week.
+
+254
+00:42:44,000 --> 00:42:52,000
+So I will pass my microphone to Alicia.
+
+255
+00:42:52,000 --> 00:43:07,000
+Hi everyone. My name is Alicia. I am from Valencia Spain. And I, I, I'm working now for a company in Mallorca.
+
+256
+00:43:07,000 --> 00:43:12,000
+And I've been working for the last seven years.
+
+257
+00:43:12,000 --> 00:43:26,000
+As an energy analyst, but with a lot of data and everything. And I feel it's the moment to fully understand the programming part. So I'm going to try.
+
+258
+00:43:26,000 --> 00:43:31,000
+And an external to by NASA.
+
+259
+00:43:31,000 --> 00:43:36,000
+Hi, I'm Vanessa. I'm from Mexico. But right now I'm living in Leiden.
+
+260
+00:43:36,000 --> 00:43:45,000
+And yeah, I enter to the boot camp because I work right now as a specialist of PI for a Mexican financial company.
+
+261
+00:43:45,000 --> 00:43:54,000
+But I'm really good in the front there part, but I'm really bad in the coding. So that's why I enter to Ironhack to learn this part.
+
+262
+00:43:54,000 --> 00:43:59,000
+And yeah, I will pass the ball to Maria.
+
+263
+00:43:59,000 --> 00:44:08,000
+Hey, hey guys. I'm really happy to be here. I am real, also Spanish. So it seems like we are a lot of Spanish in here.
+
+264
+00:44:08,000 --> 00:44:14,000
+And it's really funny because I also come from audience from Galicia as Oscar.
+
+265
+00:44:14,000 --> 00:44:23,000
+But I'm living in Paris. It's been like three years that I'm living here in France. I work as a SEO manager in a detail marketing company.
+
+266
+00:44:23,000 --> 00:44:32,000
+And again, I'm really good with content and all of this kind of part, but not with the technical part. And I love coding and data.
+
+267
+00:44:32,000 --> 00:44:40,000
+So it's also like something that can boost my career and something I really, really looking forward to learn.
+
+268
+00:44:40,000 --> 00:44:46,000
+And yeah, that's it. So next one to Danielle.
+
+269
+00:44:46,000 --> 00:44:50,000
+Danielle Mendez.
+
+270
+00:44:50,000 --> 00:44:56,000
+Hello everyone. My name is Daniel. I'm original originally from Venezuela.
+
+271
+00:44:56,000 --> 00:45:03,000
+But I moved to Portugal from Miami three years ago.
+
+272
+00:45:03,000 --> 00:45:06,000
+I work with a company in Miami still remotely.
+
+273
+00:45:06,000 --> 00:45:09,000
+It's a flower importer.
+
+274
+00:45:09,000 --> 00:45:17,000
+So I do manage on a daily basis power BI, mostly visualization.
+
+275
+00:45:17,000 --> 00:45:24,000
+But I wanted to dig in even more into the data and outside of the job.
+
+276
+00:45:24,000 --> 00:45:30,000
+And just speed up my career in that, in that, in that, in that, in that, in that, in that, in that.
+
+277
+00:45:30,000 --> 00:45:33,000
+Remification, basically.
+
+278
+00:45:33,000 --> 00:45:34,000
+So yeah.
+
+279
+00:45:34,000 --> 00:45:36,000
+Next one.
+
+280
+00:45:36,000 --> 00:45:40,000
+Let's do Gregor.
+
+281
+00:45:40,000 --> 00:45:50,000
+So my name is Gregor. I'm from Germany, but I've been living in Austria and Vienna for a very long time now, like 20 years.
+
+282
+00:45:50,000 --> 00:45:57,000
+And I used to be a salesman, but during the pandemic, I decided to switch my career and become a web developer.
+
+283
+00:45:57,000 --> 00:46:01,000
+So I'm now working as a freelance developer.
+
+284
+00:46:01,000 --> 00:46:12,000
+And I also met a data analyst who showed me some crazy things a couple of months ago. So that's the reason I applied for this.
+
+285
+00:46:12,000 --> 00:46:20,000
+And it's about expanding my skills. And yeah, I hope we're all having a nice time.
+
+286
+00:46:20,000 --> 00:46:25,000
+And I passed the ball to I do not choose who's left.
+
+287
+00:46:25,000 --> 00:46:28,000
+Manuk.
+
+288
+00:46:28,000 --> 00:46:38,000
+Yeah. Hey, sorry guys, like today's my voice is absolutely the worst. So if I talk like a dinosaur, that's not my normal voice.
+
+289
+00:46:38,000 --> 00:46:43,000
+But so yeah, hey, I'm, I'm Manuk. I am in Amsterdam.
+
+290
+00:46:43,000 --> 00:46:47,000
+Located in Amsterdam. My background.
+
+291
+00:46:47,000 --> 00:46:51,000
+Yeah, I have to be a bit honest. I've been working at Ironhack for the last four years.
+
+292
+00:46:51,000 --> 00:46:55,000
+So I know David and Miguel and Emily.
+
+293
+00:46:55,000 --> 00:47:02,000
+And honestly, like David and Miguel were one of the people that inspired me to take this course. So here I am.
+
+294
+00:47:02,000 --> 00:47:19,000
+I'm looking forward to learning with all of you and, and leveling up my skills at Ironhack right now. I'm a product manager. So I, yeah, I create products for the instruction teams at Ironhack to make them do their job better or help them do their job better.
+
+295
+00:47:19,000 --> 00:47:33,000
+And just how you want to see it. And yeah, so if you have any input or insights from me about that, I'm happy to happy to chat with you about it. And yeah, looking forward to this. So nice to meet you all.
+
+296
+00:47:33,000 --> 00:47:36,000
+So let's see.
+
+297
+00:47:36,000 --> 00:47:42,000
+Who hasn't been chosen.
+
+298
+00:47:42,000 --> 00:47:48,000
+That's the tricky one right. Angela.
+
+299
+00:47:48,000 --> 00:47:57,000
+Hello guys. Nice to meet you. I'm Angela. I'm 21 years old. So I don't know if I'm the.
+
+300
+00:47:57,000 --> 00:47:59,000
+Let me just walk the group.
+
+301
+00:47:59,000 --> 00:48:03,000
+And so I'm trying to be so Spain.
+
+302
+00:48:03,000 --> 00:48:17,000
+And so I have very deep background is I'm very, very old and young, but my, my career has been always focused on finance.
+
+303
+00:48:17,000 --> 00:48:35,000
+So understanding the importance of technology and that in our world, I decided to start starting by my own. So I decided to take courses on data analytics and also programming and finally decided to enroll the food card.
+
+304
+00:48:35,000 --> 00:48:48,000
+So, and I'm going to meet you all. I hope we all, and help a one one each other and have lots of time.
+
+305
+00:48:48,000 --> 00:48:53,000
+So I'm going to pass the ball to.
+
+306
+00:48:53,000 --> 00:48:55,000
+I don't know.
+
+307
+00:48:55,000 --> 00:48:57,000
+Hasnamilla talk.
+
+308
+00:48:57,000 --> 00:49:07,000
+Thank you. I'm Lamia, originally coming from Azerbaijan, but I'm tuning in from Berlin from Germany.
+
+309
+00:49:07,000 --> 00:49:10,000
+And what I'm here.
+
+310
+00:49:10,000 --> 00:49:21,000
+I'm a journalist by profession, but in our field, lots of new things are coming up in terms of particular data.
+
+311
+00:49:21,000 --> 00:49:29,000
+I'm mostly interested in data visualization and data cleaning.
+
+312
+00:49:29,000 --> 00:49:39,000
+So therefore I'm here to, to learn more about this side of the data analysis.
+
+313
+00:49:39,000 --> 00:49:40,000
+Yeah.
+
+314
+00:49:40,000 --> 00:49:43,000
+Thank you.
+
+315
+00:49:43,000 --> 00:49:51,000
+Well, I can choose. I think no one is left right. No, I see you often. Yeah.
+
+316
+00:49:51,000 --> 00:49:53,000
+Hi, yes.
+
+317
+00:49:53,000 --> 00:49:56,000
+My name is Joaquin.
+
+318
+00:49:56,000 --> 00:50:03,000
+I'm originally from Venezuela, but I've lived in Columbia and in France and now live in Spain.
+
+319
+00:50:03,000 --> 00:50:15,000
+And I work at a business school, the sales department, the better part of my career. I've worked in sales business development, and I started on working on customer support.
+
+320
+00:50:15,000 --> 00:50:18,000
+C Euro technical background.
+
+321
+00:50:18,000 --> 00:50:27,000
+But I'm very excited to join this court. I took a course last year, six week course and data analytics and visualization. I absolutely loved it.
+
+322
+00:50:27,000 --> 00:50:35,000
+And that's why I joined I'm very curious and very eager to learn from all of you and from our great teachers.
+
+323
+00:50:35,000 --> 00:50:42,000
+And yeah, I would like to pass the ball to Ferrico.
+
+324
+00:50:42,000 --> 00:50:44,000
+Hello to everyone.
+
+325
+00:50:44,000 --> 00:50:58,000
+I'm originally from Argentina, but I'm no since October 2021 I'm based in Valencia, like a few of the other peoples in this, this would come. So I'm industrial engineering.
+
+326
+00:50:58,000 --> 00:51:10,000
+Most of my professional experience background comes from the supply and procurement departments, but since I'm working now for a startup company here in Valencia.
+
+327
+00:51:10,000 --> 00:51:23,000
+I'm excited to take the bootcamp in data analytics and try to make a switch in my professional career and try to start working on that, because I see the opportunity in the company that I'm working for today.
+
+328
+00:51:23,000 --> 00:51:31,000
+So, very excited and that's it for the moment and going to pass the ball to Daniel.
+
+329
+00:51:31,000 --> 00:51:40,000
+Thank you for there you go. Nice to meet you all of you. My name is Samiano I'm Italian, and I currently live and working in Barcelona.
+
+330
+00:51:40,000 --> 00:51:50,000
+And I'm working for a data provider for the short term rental industry, we basically sell data for investments. And the reason why I chose.
+
+331
+00:51:50,000 --> 00:52:06,000
+I don't know I can specifically based on I think sports companies because I'm trying to get the knowledge that allow me to to change up basically and go for a more technical role and hopefully one day to a developer role.
+
+332
+00:52:06,000 --> 00:52:24,000
+And maybe the reason, and yeah, can wait to start honestly, and very excited about it. And that will pass the ball to Separna.
+
+333
+00:52:24,000 --> 00:52:37,000
+So, I'm going to ask you one. Nice to meet you to everyone today.
+
+334
+00:52:37,000 --> 00:52:40,000
+Basically I am from India.
+
+335
+00:52:40,000 --> 00:52:44,000
+Recently I am living in Netherlands.
+
+336
+00:52:44,000 --> 00:52:54,000
+I want to switch my career in data science as it is happening, and it's, I thought it's a next future is in data.
+
+337
+00:52:54,000 --> 00:53:13,000
+And I am very much excited to join the bootcamp and learn, learn from that data and I have little bit knowledge in the language, but not Python details, knowledge in Python.
+
+338
+00:53:13,000 --> 00:53:33,000
+I am excited to learn Python and other area of technique from bootcamp. And yeah, I am really looking forward to learn from bootcamp and from my data commits.
+
+339
+00:53:33,000 --> 00:53:36,000
+And that's all.
+
+340
+00:53:36,000 --> 00:53:40,000
+And.
+
+341
+00:53:40,000 --> 00:53:44,000
+Lamia, I don't know. Lamia.
+
+342
+00:53:44,000 --> 00:53:54,000
+Yeah, I've already talked about the there are people in the chat for, I would like to introduce themselves.
+
+343
+00:53:54,000 --> 00:53:58,000
+It's true. I think we are meeting a better.
+
+344
+00:53:58,000 --> 00:54:00,000
+Yeah.
+
+345
+00:54:00,000 --> 00:54:09,760
+Hi everyone, I'm Afridita. I'm from Kosovo, recently moved to Germany. I've got a master in MBA
+
+346
+00:54:09,760 --> 00:54:16,400
+with focus in finance and international business. You have worked over five years as a business
+
+347
+00:54:16,400 --> 00:54:22,560
+consultant, but in Kosovo. So when I moved to Germany, I saw the differences in the
+
+348
+00:54:22,560 --> 00:54:30,960
+technology involvement to everything where Germany is like five years ahead of Kosovo.
+
+349
+00:54:30,960 --> 00:54:40,240
+So I saw my weak spots somewhere I lacked. Back home, usually I would take the data already from
+
+350
+00:54:40,240 --> 00:54:45,760
+the business analyst and then I would work upon that to bring up the business decisions.
+
+351
+00:54:45,760 --> 00:54:52,800
+And now I'm excited to compliment my skills, learning new stuff, challenge myself and
+
+352
+00:54:54,000 --> 00:55:00,400
+become better for myself and also raise the perspective of myself on finding a better job
+
+353
+00:55:00,400 --> 00:55:10,160
+here in Germany. I've always been scared of Python. I was right. It's very hard, but I think I started
+
+354
+00:55:10,160 --> 00:55:17,200
+getting the hand of it, but it's a very way long to go. Nice to meet you everybody.
+
+355
+00:55:19,200 --> 00:55:25,680
+I don't know who's next, but yeah. I think we have one person left. Amelie?
+
+356
+00:55:27,840 --> 00:55:33,760
+Nice, thank you. So I'm from Munich, but living in beautiful Lisbon since
+
+357
+00:55:33,760 --> 00:55:41,280
+one year already, I'm flying. Well, you all know my profession. I'm program manager for data
+
+358
+00:55:41,280 --> 00:55:48,160
+analytics courses at IronHack. This is how I got curious about data analytics. To be honest,
+
+359
+00:55:48,160 --> 00:55:53,600
+I never thought that I would take a data bootcamp, but in the end, yeah, I got a little bit
+
+360
+00:55:54,560 --> 00:56:00,080
+influencers as well. So I decided to join you with the journey and start the bootcamp with you as
+
+361
+00:56:00,080 --> 00:56:09,120
+well on Tuesday. Excellent. You're very welcome. Okay, so I think that everyone, I hope I'm not
+
+362
+00:56:09,120 --> 00:56:17,120
+forgetting anyone, just if you are, like, speak now or forever or ever old your piece. Okay,
+
+363
+00:56:17,120 --> 00:56:28,480
+there we go. Talk about it for our day zero. I hope you got something out of it. We're going to
+
+364
+00:56:28,480 --> 00:56:36,080
+meet back again tomorrow, not tomorrow, sorry, on Tuesday, getting ahead of myself at 6.30 again,
+
+365
+00:56:36,080 --> 00:56:46,160
+CT. If you, if there's anything that you want to discuss on a more one or one on this, like,
+
+366
+00:56:47,280 --> 00:56:51,760
+toolkit that we just discussed, if there's something that you're not sure if you have
+
+367
+00:56:51,760 --> 00:57:01,280
+well installed or if it's working, just stay a while and we'll go through it. Yeah, otherwise.
+
+368
+00:57:02,240 --> 00:57:09,120
+Hope you have a great weekend. The last one you'll have for a while. I am kind of promising you
+
+369
+00:57:09,120 --> 00:57:24,000
+that already. See you all on Tuesday. Have a nice weekend. Have a nice weekend.

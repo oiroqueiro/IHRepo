@@ -1,5 +1,5 @@
 """
-ASGI config for djangoIronRep project.
+ASGI config for ironhackrepo project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.asgi import get_asgi_application
 
-os.environ.setdefault("DJANGO_SETTINGS_MODULE", "djangoIronRep.settings")
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "ironhackrepo.settings")
 
 application = get_asgi_application()

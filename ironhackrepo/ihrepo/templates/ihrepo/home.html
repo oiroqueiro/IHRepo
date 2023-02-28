@@ -1,0 +1,61 @@
+<!-- inheriting from the base file -->
+{% extends 'ihrepo/base.html' %}
+
+<!-- this will help render the images -->
+{% load static %}
+
+{% block content %}
+<div class="container mb-4">
+    <div class="row">
+        <!-- side navbar here -->
+        <div class="row-md-3 mt-3">
+            <div class="menu">
+                <h4 class="card-header px-10">IRONHACK Repository</h4>
+                <br>
+                <!--
+                <ul class="list-group list-group-light list-group-small">
+                    <li class="list-group-item px-3"><a href="">Home</a></li>
+                </ul>
+                -->
+                <form action="">
+                    <input type="text" name="search" placeholder="Search by any text" value="{{request.GET.name}}">
+                    <input type="submit" value="Search">
+                </form>
+                <a href="{% url 'add-video' %}" class="m-2 btn btn-dark btn-sm">Add Video</a>
+            </div>
+        </div>
+        <!-- videos here -->
+        <div class="row-md-9 mt-3">
+            <div class="row">
+                <!-- using a for loop to loop through all the videos -->
+                {% for video in videos %}
+                <div class="row-md-4">
+                    <div class="card my-2">
+                        <div class="card-body">
+                            <!-- this is the video name -->
+                            <h4 class="card-text">{{ video.video_name }}</h4>
+                            {% for keywords in video.keywords_set.all %}                                
+                                {% if keywords.languageid == 'en' %}
+                                    <span class="badge bg-primary">{{ keywords.keywords }}</span>
+                                {% endif %}
+                            {% endfor %}
+                            <div class="small">
+                            {% for subtitle in video.subtitles_set.all %}
+                                <button type="button" class="btn btn-sm">{{ subtitle.languageid }}</button>
+                            {% endfor %}
+                            </div>
+                        </div>
+                                              
+                        <div class="card-footer">
+                            <a href="{% url 'video-detail' video.id %}" class="btn btn-outline-dark btn-sm ml-2">View Video</a>                           
+                        </div>                         
+                        
+                        <!--<a href="{% url 'video-detail' video.id %}" class="m-2 btn btn-outline-dark btn-sm">View Video</a>-->
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
