@@ -8,9 +8,9 @@ def filter_videos(_filtertext):
     #Connect to mysql
     import mysql.connector
 
-    connection = mysql.connector.connect(user='root',
-                            password='p1ssw4rd',
-                            host='localhost')
+    connection = mysql.connector.connect(user='****', #your user
+                            password='*****', #your_password
+                            host='*****') #your host
 
     id_list = []
     if connection.is_connected():
