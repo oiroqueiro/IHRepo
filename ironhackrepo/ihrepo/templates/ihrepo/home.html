@@ -9,19 +9,13 @@
     <div class="row">
         <!-- side navbar here -->
         <div class="row-md-3 mt-3">
-            <div class="menu">
-                <h4 class="card-header px-10">IRONHACK Repository</h4>
+            <div class="menu">                
                 <br>
-                <!--
-                <ul class="list-group list-group-light list-group-small">
-                    <li class="list-group-item px-3"><a href="">Home</a></li>
-                </ul>
-                -->
                 <form action="">
                     <input type="text" name="search" placeholder="Search by any text" value="{{request.GET.name}}">
                     <input type="submit" value="Search">
                 </form>
-                <a href="{% url 'add-video' %}" class="m-2 btn btn-dark btn-sm">Add Video</a>
+                <!--<a href="{% url 'add-video' %}" class="m-2 btn btn-dark btn-sm">Add Video</a>-->
             </div>
         </div>
         <!-- videos here -->
@@ -34,11 +28,13 @@
                         <div class="card-body">
                             <!-- this is the video name -->
                             <h4 class="card-text">{{ video.video_name }}</h4>
+                            
                             {% for keywords in video.keywords_set.all %}                                
                                 {% if keywords.languageid == 'en' %}
                                     <span class="badge bg-primary">{{ keywords.keywords }}</span>
                                 {% endif %}
                             {% endfor %}
+                          
                             <div class="small">
                             {% for subtitle in video.subtitles_set.all %}
                                 <button type="button" class="btn btn-sm">{{ subtitle.languageid }}</button>
@@ -47,7 +43,7 @@
                         </div>
                                               
                         <div class="card-footer">
-                            <a href="{% url 'video-detail' video.id %}" class="btn btn-outline-dark btn-sm ml-2">View Video</a>                           
+                            <a href="{% url 'video-detail' video.id %}" class="btn btn-outline-dark btn-sm ml-2">Video Details</a>                           
                         </div>                         
                         
                         <!--<a href="{% url 'video-detail' video.id %}" class="m-2 btn btn-outline-dark btn-sm">View Video</a>-->

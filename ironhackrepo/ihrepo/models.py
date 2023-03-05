@@ -134,15 +134,6 @@ class DjangoSession(models.Model):
 
 
 
-class Transcriptions(models.Model):
-    videoid = models.IntegerField()
-    languageid = models.CharField(max_length=5, db_collation='utf8mb3_general_ci', blank=True, null=True)
-    transcription = models.TextField(blank=True, null=True)
-
-    class Meta:
-        managed = False
-        db_table = 'transcriptions'
-
 
 class Videos(models.Model):
     video_name = models.CharField(max_length=250, db_collation='utf8mb3_general_ci', blank=True, null=True)
@@ -154,6 +145,7 @@ class Videos(models.Model):
 
     def get_subtitles(self):
         return self.subtitles_set.all()
+    
     
 class Subtitles(models.Model):
     videoid = models.ForeignKey(Videos, on_delete=models.CASCADE, db_column='videoid')
@@ -181,3 +173,12 @@ class Keywords(models.Model):
     class Meta:
         managed = False
         db_table = 'keywords'
+
+class Transcriptions(models.Model):
+    videoid = models.ForeignKey(Videos, on_delete=models.CASCADE, db_column='videoid')
+    languageid = models.CharField(max_length=5, db_collation='utf8mb3_general_ci', blank=True, null=True)
+    transcription = models.TextField(blank=True, null=True)
+
+    class Meta:
+        managed = False
+        db_table = 'transcriptions'

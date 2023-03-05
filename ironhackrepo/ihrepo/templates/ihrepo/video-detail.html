@@ -1,45 +1,114 @@
 {% extends 'ihrepo/base.html' %}
+
 <!-- loads images -->
 {% load static %}
 
 {% block content %}
     <div class="row justify-content-center">
-        <div class="row-md-4">
+        <div class="card-text col-md-10">
             <div class="">
                 <a href="{% url 'home' %}" class="my-3 btn btn-dark btn-sm">Go Back</a>
             </div>
+
             <div style="height: 90vh">
-                <!--<img class="img-fluid text-center" style="max-width: 100%; max-height: 100%" src="{{ book.image.url }}" alt="">-->
+                <br>
                 <h5 class="text-muted">Name: {{ video.video_name }}</h5>
-                <small>Path: {{ video.video_path }}</small><br>
-                <form action="{% url 'video-detail' video.id %}" method="get">
-                    <select name="languageid" id="language-selector">
+                <br>
+                <small>Path: <br>{{ video.video_path }}</small><br><br>
+                <small>Keywords:
+                    <div id="summary-container">
+                        {% for keywords in video.keywords_set.all %}
+                            {% if request.GET.langid and keywords.languageid == request.GET.langid %}
+                                <span class="badge bg-primary">{{ keywords.keywords }}</span>
+                            {% elif not request.GET.langid and keywords.languageid == 'en' %}
+                                <span class="badge bg-primary">{{ keywords.keywords }}</span>
+                            {% endif %}
+                        {% endfor %}
+                    </div>
+                </small>
+                <br>
+                <small>Summary:    
+                    <div id="summary-container">
+                        {% for summary in video.summaries_set.all %}
+                            {% if request.GET.langid and summary.languageid == request.GET.langid %}
+                                <p>{{ summary.summary }}</p>
+                            {% elif not request.GET.langid and summary.languageid == 'en' %}
+                                <p>{{ summary.summary }}</p>
+                            {% endif %}
+                        {% endfor %}
+                    </div>
+                </small>
+                {% if request.GET.langid %}
+                    <a href="{% url 'play-video' video.id request.GET.langid '0' %}" class="btn btn-success btn-sm">Play Video</a> 
+                {% elif not request.GET.langid %}
+                    <a id="play-video-btn" href="{% url 'play-video' video.id 'en' '0' %}" class="btn btn-success btn-sm">Play Video</a> 
+                {% endif %}
+                <!--<a href="{% url 'edit-video' video.id %}" class="btn btn-success btn-sm">Edit Video</a>
+                <a href="{% url 'delete-video' video.id %}" class="btn btn-danger btn-sm">Delete Video</a>-->
+                
+                <p></p>
+                <form action="{% url 'video-detail' video.id %}">
+                    <input type="text" name="search_in" placeholder="Search by any text" value="{{ request.GET.search_in }}">
+
+                    <select name="langid" id="language-selector" onchange="updateSummary()">
                         {% for subtitle in video.subtitles_set.all %}
-                            <option value="{{ subtitle.languageid }}">{{ subtitle.languageid }}</option>
+                          <option value="{{ subtitle.languageid }}" {% if request.GET.langid == subtitle.languageid %}selected{% endif %}>{{ subtitle.languageid }}</option>
                         {% endfor %}
                     </select>
-                    <!--<a href="{% url 'play-video' video.id 'en' %}" class="btn btn-success btn-sm">Play Video</a>-->
-                    <a href="#" id="play-video-btn" class="btn btn-success btn-sm">Play Video</a>
+
+                    <input type="submit" value="Search in Video">
                 </form>
-                <!--<a href="{% url 'play-video' video.id 'en' %}" class="btn btn-success btn-sm">Play Video</a>-->
-                <a href="{% url 'edit-video' video.id %}" class="btn btn-success btn-sm">Edit Video</a>
-                <a href="{% url 'delete-video' video.id %}" class="btn btn-danger btn-sm">Delete Video</a>
+                <br>
+                {% if positions %}
+                    <h5>Search Results:</h5>
+                    <ul>                        
+                        {% for position in positions %}      
+                            {% if request.GET.langid %}                                                                                  
+                                <a href="{% url 'play-video' video.id request.GET.langid position.0 %}" class="list-group-item list-group-item-action">{{ position }}</a>
+                            {% elif not request.GET.langid %}
+                                <a id="play-video-pos-btn" href="{% url 'play-video' video.id 'en' '0' %}" class="list-group-item list-group-item-action">{{ position }}</a>
+                            {% endif %}
+                        {% endfor %}
+                        
+                    </ul>
+                {% endif %}
+            </div>
+            <div>
+                
             </div>
         </div>
     </div>
-{% endblock %}
-<script>
-    // get the language selector and play video button
-    const languageSelector = document.getElementById('language-selector');
-    const playVideoBtn = document.getElementById('play-video-btn');
-    
-    // add a click event listener to the play video button
-    playVideoBtn.addEventListener('click', () => {
-        // get the selected language from the dropdown
-        const languageId = languageSelector.value;
+
+    <script>
+
+        function updateSummary() {
+            // get the selected languageid
+            const langid = document.querySelector("#language-selector").value;
+
+            // update the URL with the selected languageid
+            const searchParams = new URLSearchParams(window.location.search);
+            searchParams.set('langid', langid);
+            window.location.search = searchParams.toString();
+        }        
+                
+        // get the language selector element and the play video button element
+        const languageSelector = document.querySelector("#language-selector");       
+        const playVideoBtn = document.querySelector("#play-video-btn");
+        const playVideoPosBtn = document.querySelector("#play-video-pos-btn");
+
+        // add an event listener to the language selector
+        languageSelector.addEventListener("change", () => {
+            // get the selected languageid
+            const langid = languageSelector.value;            
+
+            // update the href attribute of the play video button
+
+            playVideoBtn.href = "{% url 'play-video' video.id '__langid__' '0' %}".replace("__langid__", langid);        
+            playVideoPosBtn.href = "{% url 'play-video' video.id '__langid__' '__pos__' %}".replace("__langid__", langid).replace("__pos__", 100);
+
+        });
+
         
-        // construct the url for the selected language and redirect to it
-        const url = "{% url 'play-video' video.id '' %}".replace('', languageId);
-        window.location.href = url;
-    });
-</script>
+    </script>
+      
+{% endblock %}

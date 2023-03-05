@@ -44,7 +44,7 @@ def video_player(_videoid, _langid, _position = 0):
     _position: time in seconds to start the video
     Return: None
     """
-    
+
     import os
     from pathlib import Path
     #Connect to mysql
@@ -71,12 +71,14 @@ def video_player(_videoid, _langid, _position = 0):
                     WHERE videoid = %s
                         AND languageid = %s"""
         val = [int(_videoid), _langid]
-        cursor.execute(query, val)    
+        cursor.execute(query, val)   
+        print(cursor.statement) 
         subt_table = cursor.fetchall()
         if (len(subt_table)>0):
             subt_df = pd.DataFrame(subt_table)
             subt_df.columns = [i[0] for i in cursor.description]
             
+            #os.remove(Path(list(conf_df['temp_directory'])[0]+"/play_subtitle.srt"))
             with open(Path(list(conf_df['temp_directory'])[0]+"/play_subtitle.srt"), "w+") as f:
                 f.write(list(subt_df['subtitles'])[0])
             
@@ -96,13 +98,17 @@ def search_pos_video(_subitles,_text):
     """Function to locate the positions of the subtitles
        where the text to search is located.
        This function will use to find text inside a video
-    
+
     Keyword arguments:
     _subtitles: the subtitles of the video
     _text: text to find
     Return: a list of tuples with the positition (seconds) and the time
     """
-    
+    import re
+
+    #print(_subitles)
+    #print(_text)
+
     pos_find = [re.findall('(\d{2}:\d{2}:\d{2},\d{3})',_subitles[:i.start()])[-2].split(':') for i in re.finditer(_text.lower(), _subitles.lower())]
     positions_final = [(int(pos[0])*3600+int(pos[1])*60+int(float(pos[2].replace(',','.'))),':'.join(pos)) for pos in pos_find]
     return positions_final
