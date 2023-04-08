@@ -21,7 +21,7 @@ This task I decided to use [Hugging Face transformers](https://huggingface.co/do
 - ### Translation
 This was the only part that didn't tried other options because I used it before and worked fine to me but this also was not a smooth path, beware that translating subtitles can you give you some surprises (break lines...) so I decided to split the subtitles in lines and translate them to joined together at the end.
 - ### BBDD
-This process store in one MySQL database all the texts I got (originals and translations) with the relationship with the videos. I created FULL TEXT index in the database bud needed to delete them because took more time to do the process so I will implement this in the future with better searching.
+This process store in one MySQL database all the texts I got (originals and translations) with the relationship with the videos. I created FULL TEXT index in the database so I could use natural language option to search the videos.
 - ### APP
 Since I tried Flask in my [Mid Bootcamp project](https://github.com/oiroqueiro/mid-bootcamp-project), for this project I wanted to try any other options and after research about Streamlit and Django, I decided to take the complicated path, so I used Django (with Bootstrap 5).
 
